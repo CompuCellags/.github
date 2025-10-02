@@ -1,0 +1,43 @@
+        ''''xxxx''''''''''''''''''''''''''''''''''xxxxxxxxxxxxxxxxxxxxxx'''''
+          ''''xxxxxxxx''''''''''''''''''xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'''''       
+              ''''xxxxxxxxxx''''''''''xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx''''   
+              ''''''xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'''' 
+                ''''''xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'''           oxxxxxxo'oxxxxxxo'
+                  ''''''xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\\\     ooo  oooo   //xxx''''''''''            oxxxxxxo'
+                 ' ''''xxxxxxxxxxxxx'''''''''''xxxxxxxxxxxxxx\\     oo  oo   //xxx''xxcxxccxxxx'''                      xxxxxxxxxxxxxxxxxxo''
+               'oxxx 'xxxxxxxxxxx'xxxxxxxxxcxxxxcxccxxxxxxxxxx\\_____oooo__//x''xxxxxxccxxxxxxxxx'''                xxxxxxoxxxxxxo'
+             'oxxx   xxxxxxxxx'xxxxxxxxxxxxxxxxxx'xxxxxxxxxxxxxxxxxxxxxxxxxx''xxxx  dddxxxxxxxxxxxxx''         oxxxxxxo'
+           'oxxxxx xxxxxxxxx'xxxxxxxxxxxxxxxxxx'xxxxxxxxxxxxxxxxxxxxxxxxxxx''xxxxxxxxxxddxxxxdxxxxxxxxx''            oxxxxxxo'
+         'oxxxxx  xxxxxxx''xxxxxxxxxxxxxxxxxx'xxxxxxxxxxxxxxxxxxxxxxxxxxxx''xxxxxxxxzxxxxxxddxxxxxxxxxxx''                          oxxxxxxo'
+        'oxxxx ''xxxx''''xxxxxxxxxxxxxxxxxx'xxxxxxxxxxxxxxxxxxxxxxxxxxxxx''xxxxxxxxxxxxxxxxxxxzxxxxddxxx''       oxxxxxxo'
+        oxxx''   xxx''''''xxxxxxxxxxx'xxx''xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'''xxxxxxxxx''xxxxxxxxxxxsxxxxx''
+        oxxxxxxo  xx      ''xxxxxxxxxx'xx'''xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx''xxxx'''''''''xxxxxxxxxxxszxxx''           xxxxxx  
+        oxxxxxxo         '''xxxxxxx''xx''xxxxxxxx'xxxxxxxx''xxx'xxxxxxxx''''x'' xxxxxxxx'''xxxxsxxxxxxxx''          xxxxxxx           oxxxxxxo'
+        oxxxxxxo           '''xxxxx'''x''xxxxxx''xxxxxxx''xxxx''xxxxxxxxx'''''xxxxxxxx''''xaxxxxxxxxx''       xxxxxxx            oxxxxxxo'
+        oxxxxxxo             ''xxxx'''''xxxxx''xxxxxxxx''xxx''''xxxxxxxx''''''xxxxxx''''''xaxxxxxx''       xxxxx x              oxxxxxxo'   
+        xxxxxxxo               ''xx''''''xxx''xxxxxx''''''x'''''xxxxxx'''''''''xx'''''''''xxxx''''         xxxxx    x              oxxxxxxx
+        xxxxxxxo                ''x'''''''xx'''xxxx'''''  _____ '''xxxxxx''''''''''''''''xx'''''        xxxxxx       x               oxxxxxxx
+        oxxxxxxo                   '''''''''x'''xxx'''  //-----\\ ''''''xxxxxx'''''''''''''               xxxxxxxx         x                oxxxxxxx
+        xxxxxxxo       ||           ''xxx'\______''x'' ||'''''''|| ''''''_____/''xxx''           xx                 oxxxxxxx
+        xxxxxxxo       ||         ''xxxxxx'''''''\'''_______________'''/'''''''xxxxxx''            xx                   oxxxxxxx
+        xxxxxxxo       \\       ''xxxxxxxx'''''''''''||           ||''''''''''xxxxxxxx''             xxx     oxxxxxxx
+        xxxxxxxo        \\     ''xxxxxxxxxx\___''''''||    ooo    ||'''_____/'xxxxxxxxxx''            oxxxxxxx 
+         xxxxxxxo        \\   ''xxxx'xxxxx'''''\'''''||    ooo    ||''/'''''''xxxxx'xxxx''              oxxxxxxx
+         'xxxxxxxo         \\''xxxx''xxxxx'''''''''''||     o     ||''''''''''xxxxx''xxxx''                 oxxxxxxx
+          'ooxxxxxxo         ''xxxx''xxxxx'\____'''''||___________||''''____/'xxxx'''xxxx''                  oooxxxxx 
+            'ooxxxxxxo        ''xxxx''xxxxx'''''\'''\\_____________//''/''''''xxxx'''xxxx''       oxxxxxxo'
+              'ooxxxxxxo       ''xxx'''xxxx''''''''''\\___________//''''''''''xxxx'''xxx'''      xxxxxxoo' 
+                'ooxxxxxxxo      ''xx'''xxxx'''''''''||___________||'''''''''xxxx'''xx''      oxxxxxxoo'
+                  ''ooxxxxxxo      ''x'''xxxx''''''''||___________||''''''''xxxx'''x''      oxxxxxxoo'
+                      '''ooxxxxxxoo'''''''''xxx''''''\\___________//'''''''xxx''''''''''vvxxxxxxoo'   
+                          ''''ooxxxxxcc'''''''xx''''''''_________''''''''xx'''''''ooxxxxxoo''
+                              ''''''ooooooooo '''x'''''''''''''''''''''x'''oooooooooo
+                                     ''''''ooooxoxoxox''''''''''''''xooxxxoxoxoo
+                                             '''oxxxxxxo'oxxxxxxo'oxxxxxxo''     
+                                                        oxxxxxxo'
+
+
+
+
+
+

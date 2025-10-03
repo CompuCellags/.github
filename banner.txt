@@ -1,43 +1,50 @@
-        ''''xxxx''''''''''''''''''''''''''''''''''xxxxxxxxxxxxxxxxxxxxxx'''''
-          ''''xxxxxxxx''''''''''''''''''xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'''''       
-              ''''xxxxxxxxxx''''''''''xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx''''   
-              ''''''xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'''' 
-                ''''''xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'''           oxxxxxxo'oxxxxxxo'
-                  ''''''xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\\\     ooo  oooo   //xxx''''''''''            oxxxxxxo'
-                 ' ''''xxxxxxxxxxxxx'''''''''''xxxxxxxxxxxxxx\\     oo  oo   //xxx''xxcxxccxxxx'''                      xxxxxxxxxxxxxxxxxxo''
-               'oxxx 'xxxxxxxxxxx'xxxxxxxxxcxxxxcxccxxxxxxxxxx\\_____oooo__//x''xxxxxxccxxxxxxxxx'''                xxxxxxoxxxxxxo'
-             'oxxx   xxxxxxxxx'xxxxxxxxxxxxxxxxxx'xxxxxxxxxxxxxxxxxxxxxxxxxx''xxxx  dddxxxxxxxxxxxxx''         oxxxxxxo'
-           'oxxxxx xxxxxxxxx'xxxxxxxxxxxxxxxxxx'xxxxxxxxxxxxxxxxxxxxxxxxxxx''xxxxxxxxxxddxxxxdxxxxxxxxx''            oxxxxxxo'
-         'oxxxxx  xxxxxxx''xxxxxxxxxxxxxxxxxx'xxxxxxxxxxxxxxxxxxxxxxxxxxxx''xxxxxxxxzxxxxxxddxxxxxxxxxxx''                          oxxxxxxo'
-        'oxxxx ''xxxx''''xxxxxxxxxxxxxxxxxx'xxxxxxxxxxxxxxxxxxxxxxxxxxxxx''xxxxxxxxxxxxxxxxxxxzxxxxddxxx''       oxxxxxxo'
-        oxxx''   xxx''''''xxxxxxxxxxx'xxx''xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'''xxxxxxxxx''xxxxxxxxxxxsxxxxx''
-        oxxxxxxo  xx      ''xxxxxxxxxx'xx'''xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx''xxxx'''''''''xxxxxxxxxxxszxxx''           xxxxxx  
-        oxxxxxxo         '''xxxxxxx''xx''xxxxxxxx'xxxxxxxx''xxx'xxxxxxxx''''x'' xxxxxxxx'''xxxxsxxxxxxxx''          xxxxxxx           oxxxxxxo'
-        oxxxxxxo           '''xxxxx'''x''xxxxxx''xxxxxxx''xxxx''xxxxxxxxx'''''xxxxxxxx''''xaxxxxxxxxx''       xxxxxxx            oxxxxxxo'
-        oxxxxxxo             ''xxxx'''''xxxxx''xxxxxxxx''xxx''''xxxxxxxx''''''xxxxxx''''''xaxxxxxx''       xxxxx x              oxxxxxxo'   
-        xxxxxxxo               ''xx''''''xxx''xxxxxx''''''x'''''xxxxxx'''''''''xx'''''''''xxxx''''         xxxxx    x              oxxxxxxx
-        xxxxxxxo                ''x'''''''xx'''xxxx'''''  _____ '''xxxxxx''''''''''''''''xx'''''        xxxxxx       x               oxxxxxxx
-        oxxxxxxo                   '''''''''x'''xxx'''  //-----\\ ''''''xxxxxx'''''''''''''               xxxxxxxx         x                oxxxxxxx
-        xxxxxxxo       ||           ''xxx'\______''x'' ||'''''''|| ''''''_____/''xxx''           xx                 oxxxxxxx
-        xxxxxxxo       ||         ''xxxxxx'''''''\'''_______________'''/'''''''xxxxxx''            xx                   oxxxxxxx
-        xxxxxxxo       \\       ''xxxxxxxx'''''''''''||           ||''''''''''xxxxxxxx''             xxx     oxxxxxxx
-        xxxxxxxo        \\     ''xxxxxxxxxx\___''''''||    ooo    ||'''_____/'xxxxxxxxxx''            oxxxxxxx 
-         xxxxxxxo        \\   ''xxxx'xxxxx'''''\'''''||    ooo    ||''/'''''''xxxxx'xxxx''              oxxxxxxx
-         'xxxxxxxo         \\''xxxx''xxxxx'''''''''''||     o     ||''''''''''xxxxx''xxxx''                 oxxxxxxx
-          'ooxxxxxxo         ''xxxx''xxxxx'\____'''''||___________||''''____/'xxxx'''xxxx''                  oooxxxxx 
-            'ooxxxxxxo        ''xxxx''xxxxx'''''\'''\\_____________//''/''''''xxxx'''xxxx''       oxxxxxxo'
-              'ooxxxxxxo       ''xxx'''xxxx''''''''''\\___________//''''''''''xxxx'''xxx'''      xxxxxxoo' 
-                'ooxxxxxxxo      ''xx'''xxxx'''''''''||___________||'''''''''xxxx'''xx''      oxxxxxxoo'
-                  ''ooxxxxxxo      ''x'''xxxx''''''''||___________||''''''''xxxx'''x''      oxxxxxxoo'
-                      '''ooxxxxxxoo'''''''''xxx''''''\\___________//'''''''xxx''''''''''vvxxxxxxoo'   
-                          ''''ooxxxxxcc'''''''xx''''''''_________''''''''xx'''''''ooxxxxxoo''
-                              ''''''ooooooooo '''x'''''''''''''''''''''x'''oooooooooo
-                                     ''''''ooooxoxoxox''''''''''''''xooxxxoxoxoo
-                                             '''oxxxxxxo'oxxxxxxo'oxxxxxxo''     
-                                                        oxxxxxxo'
-
-
-
-
-
-
+______________________________________________________________________________________________________________________________________________________     
+|                           _______________________________________________________________________             xxxxxx'                             ||
+|                                                                                                                    xxxx'                          ||
+|                                        DEVELOP AGUASCALIENTES - OFICIAL GITHUB PAGE                                    xxx'                       ||
+|                              SECURITY RESEARCH & VULNERABILITY ANALYST / OPEN SOURCE DEVELOPER                            xxx'                    ||
+|                           _______________________________________________________________________                            xxx'                 ||
+|       ______________________________________________________________________________________________________________           xxx'               ||                                                                  
+|       ||  \\                                    .__._____     ___.___                                    //  //   ||             xxx'             ||
+|       ||''''\\                  sudo_        _:-'//¬//--\\ _ //---'u\c                                 __ /oo//___||               xxx'           ||
+|       || '\\ __oo oo_                        -'T|/v''/ t=o t=o \'\c'u'c_                          __ooo''-- _//   ||                 xxx'         || 
+|       ||       o-- ooo __                    T|_''//c|    .\   '|c''uu_'u   ROOT          ooo __ooo_//- ---       ||                   xxx'       ||
+|       ||            .\\oo  --  ooo            -'v|''.\  ¬___¬ '| 'u'-/               ooo//   ooo''//              ||                    xxx'      ||
+|       ||                   _ c  c \\oo__        'txx_ \__ .. _//''_u''c     __ oo   --  oo''                      ||                     'xxx'    || 
+|       ||                     --\__   --  \\  oo     //  |\  /| \\        oo  \\    __--                           ||                      'xxx'   ||
+|       ||                           '\\  ___m_  _///_//  \ '' /  \\_\\\\_m ___   //                                ||                       xxx'   || 
+|       ||..__   _____  _____     ____/   ||          --       --        ||  //\____   _____   ___           _______||                        xxx'  ||
+|       ||-...\\/____ /  --- \\ --                                       ___//   -- // ---  \--- //---\//./oo-_''- -||                        xxx'  ||
+|       ||.//'''\_ \_____ /__/__ //''_ ___     \    *   /  \    *   /     ___ _ ''\\ __ \__ / _____/ _/'''// _-_-''-||                        'xxx  ||
+|       ||     S      V              R   \\\    \ _  _ /    \ _  _ /    ///                   I              B      ||                        'xxx  ||
+|       ||     E      U   $          E     \\             |            -//    _    D    #     A              E      ||                        'xxx  ||
+|       ||     C      L   U   A      D      |-_ \___      |     ___/  _-| #        E          -       I      H      ||                        'xxx  ||
+|       ||     U      N   D   N              \|    \___   |   ___/   -|/           V    A     C       N      A      ||                        'xxx  || 
+|       ||     R      E   O   A      T        \|      \__ | __/     -|/  P         E    G     O       T      V      ||                        'xxx  ||
+|       ||     I      R       L      E        \\                    //   S         L    U     R       E      I      ||                        'xxx  ||
+|       ||     T      A       Y      A        ||    | --    -- |   //|   I   #     O    A     E       N      O      ||                        'xxx  ||
+|       ||     Y      B       S      M        ((     \_      _/     \)   R         P    S     -       D      R      ||                        'xxx  || 
+|       ||            I       T               ((      |  0   |      \))  T              C     M       E      R      ||                        'xxx  || 
+|       ||     R      L                      |\ _     \_    _/     _||/                 A     O       D             ||                        'xxx  ||
+|       ||     E      I                      |||                     ||\   #            L     D                     ||                       'xxx   ||
+|       ||     S      T          0           |||                     |/|                I     E                     ||                      'xxx    ||
+|       ||     E      Y          1          // /     O)| |O)         ||/          $     E     L                     ||                      xxx'    ||
+|       ||     A                 0          ||/        (o)         ''\\|                N     S            M        ||                     xxx'     ||
+|       ||     R                 0          //||        ||            |\\\              T                  E        ||                    xxx'      ||
+|       ||     C          Z      1        // /|         \\           |/\\\__            E                  T        ||                   xxx'       ||
+|       ||     H          E      0       _   |/         ||\\          ||    \__\_       S                  A        ||                  xxx'        ||
+|       ||                R           //     ||  /     /|  \|       '\\       \\__                         S        ||                xxx'          || 
+|       ||                O         //       \|      |||   \|         /|| _        \\                      P        ||              xxx'            ||
+|       ||                        //       //\|      |||    \|       |||   \\       \\              P      L        ||             xxx'             ||
+|       ||        B       D      //|    //   ((     ///      \\      ///      '||   |_\\            Y      O        ||           xxx'               ||
+|       ||        A       A    / |||  ||     //     |\        ||   /|\          \\'     \\          T      I        ||         xxx'                 || 
+|x      ||        S       Y   /__//  //      ||     \\         //     ||          \\||    \\        H      T        ||       xxx'                   ||
+|xxx    ||        H        '|    ||         ||     ||         |/     ||            \|\\     \\      O               ||     xxx'                     ||
+|  xxx  ||                //   //           ((    ||           \\   //               (\\    \|      N               ||   xxx'                       ||
+|    xxx||              //   /|             //   ||             ||   ||                 (\\  \\                     ||xx'                           ||
+|       ||             ||   |/              ||  //              ||  //                   \\  \\                  xxx||'                             ||
+|       ||xx        ____//||c\          ____////c\           ___////c\                    CC\\\\\             xxxx''||                              ||
+|       || 'xxmm  //////|-ccD       mmm/////||cccD        mmm////||ccD                   CCC'''|||\\mm  xxxx''      ||                              ||
+|       ||____xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx''_________||                              ||
+|                                                                                                                                                   ||
+____________________________________________________________________________________________________________________________________________________||

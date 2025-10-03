@@ -1,4 +1,6 @@
-``` 
+<div align="center">
+
+  <pre>
 ______________________________________________________________________________________________________________________________________________________     
 |                           _______________________________________________________________________             xxxxxx'                             ||
 |                                                                                                                    xxxx'                          ||
@@ -49,9 +51,59 @@ ________________________________________________________________________________
 |       ||____xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx''_________||                              ||
 |                                                                                                                                                   ||
 ____________________________________________________________________________________________________________________________________________________||
-```
+</pre>
+
+  <h1><strong>Develop Aguascalientes</strong></h1>
+  <h3>Security Research & Vulnerability Analyst | Open Source Developer</h3>
+
+</div>
+
+---
 
 ASCII Art BY: DEVELOP AGUASCALIENTES _INTENDED_BEHAVIOR
 
-# .github
-Root 
+
+### 👋 Sobre Mí
+
+Soy un investigador de seguridad independiente con una metodología basada en la deconstrucción de sistemas y la filosofía crítica. Mi trabajo se enfoca en descubrir vulnerabilidades sistémicas en ecosistemas de gran escala y en construir herramientas de código abierto éticas y seguras.
+
+---
+
+### ❤️ Apoya Mi Trabajo
+
+Mi investigación es un trabajo de tiempo completo, impulsado por la curiosidad y un profundo compromiso con la seguridad digital. Si encuentras valor en mis reportes, análisis o en mi proyecto de IA (`ia-core-models`), considera patrocinarme.
+
+Tu apoyo me permite dedicar más tiempo y recursos a esta labor, mantener mi independencia y seguir contribuyendo con hallazgos que benefician a toda la comunidad.
+
+<div align="center">
+  <a href="https://github.com/sponsors/CompuCellags">
+    <img src="https://img.shields.io/badge/Patrocinar_en_GitHub-Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors" 
+         alt="Patrocinar en GitHub Sponsors">
+  </a>
+</div>
+
+---
+
+### 🚀 Mis Enfoques Actuales
+
+-   **🧠 Investigación de Seguridad:** Analizando flujos de autenticación, estados de bloqueo y protocolos de sesión en plataformas de Apple, Google y Microsoft.
+-   **🤖 IA Ética y Segura:** Liderando el desarrollo de [ia-core-models](https://github.com/CompuCellags/ia-core-models), una biblioteca para la creación de modelos de IA trazables y auditables.
+-   **🌐 Código Abierto:** Creando y manteniendo herramientas que promueven la seguridad y las buenas prácticas en la comunidad de desarrolladores.
+
+---
+
+### 🌐 Conecta Conmigo
+
+-   **Portfolio de Investigación:** [intended_behavior.github.io](https://compucellags.github.io/intended_behavior.github.io/)
+-   **ORCID:** [0009-0004-5662-6715](https://orcid.org/0009-0004-5662-6715)
+
+---
+
+<div align="center">
+
+  <a href="https://github.com/CompuCellags">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=CompuCellags&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CompuCellags&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
+  
+</div>
